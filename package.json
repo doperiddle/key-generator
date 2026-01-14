@@ -17,7 +17,7 @@
     "@polkadot/util": "^12.1.2",
     "@polkadot/util-crypto": "^12.1.2",
     "@scure/base": "^1.1.1",
-    "@solana/web3.js": "^1.98.1",
+    "@solana/web3.js": "^1.54.1",
     "aptos": "^1.22.1",
     "bip32": "^4.0.0",
     "bip39": "^3.1.0",
